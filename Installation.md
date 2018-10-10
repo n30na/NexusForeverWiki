@@ -44,3 +44,10 @@ In the build folders for the 3 separate servers you'll find a configuration JSON
 Update the MySQL information in both these configuration files to match the 3 databases created earlier.   
 
 With this information set correctly the STS, auth and world servers should start successfully.
+
+***
+
+### Account Creation
+In order to login to the server you'll need to create an account, this can be achieved from the world server console.  
+You can use the `accountcreate` command to achieve this, the command takes 2 parameters of a email/username and password.  
+With an account created you can now use it to login to the server from the main menu of WildStar.
