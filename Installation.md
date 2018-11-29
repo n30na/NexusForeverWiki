@@ -51,3 +51,13 @@ With this information set correctly the STS, auth and world servers should start
 In order to login to the server you'll need to create an account, this can be achieved from the world server console.  
 You can use the `accountcreate` command to achieve this, the command takes 2 parameters of a email/username and password.  
 With an account created you can now use it to login to the server from the main menu of WildStar.
+
+***
+
+### Launching
+Copy `NexusForever.ClientConnector.exe` and `Newtonsoft.Json.dll` from your `NexusForever.ClientConnector` build folder into the `WildStar\Client64` folder (at this time the connector only supports the x64 client).
+
+Running the connector with administration privileges will open a console window allowing you to specify what host you would like your WildStar client to connect to, for a local server you need to enter either `127.0.0.1` or `localhost`.
+
+Your entered host will be saved to a file called `config.json`, this allows you to skip entering the host for future launches of the connector.  
+If you wish to change the saved host you can either modify this file or delete it which will prompt you for a new host on the next launch.
