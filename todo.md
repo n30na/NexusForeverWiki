@@ -2,7 +2,6 @@
 - Reputation
 - LAS editing/remembering
 - Spell casting (basic handling, no actual effect)
-- Gear equipping
 - Player attributes (calculated from gear & level)
 - Health, focus, and class resources
 - Mob & NPC stats
@@ -20,3 +19,19 @@
 - NPC quest giving
 - Quest progress tracking
 - Basic quest scripting engine/whatever (only for simple quest objectives like kill x mobs)
+- Chat
+- Friends list
+- Guild formation and player list
+- Other basic guild functionailiy (motd etc)
+- Guild exp/perks
+- Guild bank
+- Bank
+- Bag of infinite frustration
+- AMPs
+- Transmat
+- Taxis
+- Fast travel
+- Loot dropping & collection
+- Runes
+- Crafting
+- Housing
