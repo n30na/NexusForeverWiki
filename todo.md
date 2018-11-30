@@ -1,0 +1,22 @@
+- Level and exp
+- Reputation
+- LAS editing/remembering
+- Spell casting (basic handling, no actual effect)
+- Gear equipping
+- Player attributes (calculated from gear & level)
+- Health, focus, and class resources
+- Mob & NPC stats
+- Combat Stats/Calculations
+- Spell/combat interaction
+- Spell collision
+- Movement abilities? (depends on clientside implementation)
+- Buff & Debuff tracking
+- Mob & npc spawning
+- Basic Mob AI
+- Using Mounts
+- Viewing mounts/pets
+- Learning mounts/pets
+- Player quest log/tracking
+- NPC quest giving
+- Quest progress tracking
+- Basic quest scripting engine/whatever (only for simple quest objectives like kill x mobs)
