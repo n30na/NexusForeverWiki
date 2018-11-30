@@ -28,6 +28,7 @@
 - Transmat
 - Housing
 - Instance handling?
+- Circles
 ## Low Prioriy
 - Quest progress tracking
 - Basic quest scripting engine/whatever (only for simple quest objectives like kill x mobs)
@@ -40,3 +41,12 @@
 - Crafting
 - Taxis
 - Challenges
+
+
+cats
+- Combat
+- World
+- Character
+- Social
+- NPCs
+- Quests
